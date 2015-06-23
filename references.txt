@@ -1,0 +1,4 @@
+http://www.w3schools.com/cssref/pr_margin.asp
+http://www.w3schools.com/cssref/pr_font_weight.asp
+http://getbootstrap.com/css
+http://udacity.github.io/frontend-nanodegree-styleguide/index.html
